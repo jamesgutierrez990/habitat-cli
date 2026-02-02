@@ -1,6 +1,6 @@
 {
   "name": "habitat-cli",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Local-first observability CLI for Codex and Claude Code",
   "main": "src/index.ts",
   "scripts": {
